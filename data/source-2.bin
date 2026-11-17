@@ -1,0 +1,11 @@
+{
+  "kind": "interval",
+  "id": "interval-B",
+  "revision": "v1",
+  "phase": "一期",
+  "jurisdiction": "乙地",
+  "references": [
+    "permit-A"
+  ],
+  "verified": false
+}
