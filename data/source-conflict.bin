@@ -2,10 +2,8 @@
   "kind": "permit",
   "id": "permit-A",
   "revision": "v1",
-  "phase": "一期",
-  "jurisdiction": "丙地",
-  "references": [
-    "interval-B"
-  ],
-  "attachment": "source-2.bin"
+  "meter": "M-1",
+  "period": "2026-Q4",
+  "approved_capacity_mw": 2450,
+  "source_revision": "conflicting-copy"
 }
